@@ -1,2 +1,3 @@
 # shubham-demo
-this is my first repo
+this is my first repo.
+Author :-Shubham Dubey
